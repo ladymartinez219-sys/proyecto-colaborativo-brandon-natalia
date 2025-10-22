@@ -1,3 +1,4 @@
 Guía de instalación del proyecto
 segundo pull natalia
 hola
+error solucionado
