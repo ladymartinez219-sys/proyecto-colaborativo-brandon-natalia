@@ -1,0 +1,25 @@
+Portada
+- Nombre del sistema o aplicación
+- Nombre del proyecto
+- Tu nombre y fecha
+2️-introducción
+- Breve descripción del sistema
+- Objetivo del manual
+3️-Requisitos del sistema
+- Hardware necesario (computadora, celular, etc.)
+- Software necesario (navegador, sistema operativo, etc.)
+4️-Instalación o acceso
+- Cómo instalar el sistema (si aplica)
+- Cómo ingresar o registrarse
+5️-Funcionalidades principales
+- Explicación de cada módulo o sección del sistema
+- Qué hace cada botón, menú o función
+6️-Ejemplos de uso
+- Paso a paso para realizar tareas comunes
+- Capturas de pantalla (si puedes incluirlas)
+7️-Preguntas frecuentes
+- Problemas comunes y cómo resolverlos
+8️-Contacto o soporte
+- A quién acudir si hay dudas o errores
+
+
